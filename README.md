@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @umairkhan0538
-- 👀 I’m interested in AI and machine learning
-- 🌱 I’m currently learning electrical engineering
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Umair khan
+- 👀 I’m interested in PYTHON, AI and machine learning.
+- 🌱 I’m currently Stuyding Electrical Engineering.
+- 💞️ I’m looking to collaborate on pytho
 
 <!---
 umairkhan0538/umairkhan0538 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
